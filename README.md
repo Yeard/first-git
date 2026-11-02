@@ -1,2 +1,2 @@
 # first-git
-this is my first repo
+this is my first repo v.1
